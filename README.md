@@ -1,4 +1,4 @@
-# APPSIMITY - CHAT APP USING FIREBASE AND NODEJS
+# APPSIMITY - CHAT APP USING FIREBASE, ReactJS AND NodeJS
 
 Please make sure that you have Nodejs installed on your device. To install it, go to nodejs.org, and download it.
 1. Open the terminal/command prompt and *cd* inside the folder.
